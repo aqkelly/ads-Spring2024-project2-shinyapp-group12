@@ -4,7 +4,8 @@
 
 Term: Fall 2023
 
-![screenshot](doc/figs/map.jpg)
+![Screenshot 2024-02-21 at 17 12 51](https://github.com/aqkelly/ads-Spring2024-project2-shinyapp-group12/assets/145166784/2260f86d-bd7c-4f26-97a4-2a9d6f22361a)
+
 
 In this second project of GR5243 Applied Data Science, we develop a *Exploratory Data Analysis and Visualization* shiny app using one of **the OpenFEMA data sets** of your choice. See [Project 2 Description](doc/project2_desc.md) for more details.  
 
@@ -19,7 +20,7 @@ The **learning goals** for this project is:
 *The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
 ## Project 2 Shiny App
-Term: Fall 2023
+Term: Spring 2024
 
 + Team # 12
 + **Projec title**: + Disaster Declarations Summaries
@@ -28,7 +29,7 @@ Term: Fall 2023
 	+ Guanbiao Li
 	+ Tianyi Jiang
 
-+ **Shiny App Link**: https://dataevan.shinyapps.io/Shinyapp-12/
++ **Shiny App Link**: [https://dataevan.shinyapps.io/Shinyapp-12/](https://dataevan.shinyapps.io/project_2_data_analysis/)
 	
 + **Project summary**: We aim to develop a mobile application specifically designed for government agencies, enabling them to summarize and analyze historical disaster data swiftly. This application will facilitate these agencies in conducting comprehensive analyses of past disasters, which, in turn, will inform their decision-making processes regarding funding allocations and budgeting strategies. By leveraging this data, the government can make more informed decisions, optimize the allocation of resources to areas most in need, and improve disaster response and preparedness strategies.
 

@@ -204,8 +204,8 @@ ui <- dashboardPage(skin = "blue",
                                   ))
                         ),
                         # ------------------ Reference Page ----------------------------------------------
-                        tabItem(tabName = "reference",
-                                fluidRow(box(title = "Reference", status = "primary", solidHeader = TRUE,
+                        tabItem(tabName = "reference",fluidPage(
+                                fluidRow(box(width = 15, title = "Reference", status = "primary", solidHeader = TRUE,
                                              HTML("
                         <div style='font-size: 17px;'>
                         <p>Dataset - Disaster Declarations Summaries: <a href='https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2' target='_blank'>Link</a></p>
@@ -215,7 +215,7 @@ ui <- dashboardPage(skin = "blue",
                         </div>
                         ")
                                 ))
-                        )
+                        ))
                         
                       )
                     )
